@@ -20,7 +20,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "sharp": "^0.22.0"
+    "sharp": "github:lovell/sharp#b36ad25030e409d9b8339f5e379346bbe7d764f1"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
